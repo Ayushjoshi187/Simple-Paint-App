@@ -5,3 +5,5 @@ Automatically fill it with a different color.
 Add a reset button that clears the canvas.
 Whenever you click on canvas show a text ‘Hit’ if there is a circle below the cursor else ‘Miss’.
 Double clicking on a circle should delete the same.
+
+Demo : [https://ayushjoshi187.github.io/Simple-Paint-App/](url)
